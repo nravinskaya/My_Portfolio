@@ -25,5 +25,5 @@ I built four models: two for each algorithm **random forest** and **decision tre
 Based on the results of the accuracy assessment, the first of the considered models was selected to complete the final test.  
 As a result of applying my machine learning algorithm to 20 test cases in the test data and submitting my prediction to a test quiz for automatic evaluation **all cases were predicted correctly**.
 
-**[View full report]**(https://nravinskaya.github.io/practicalMachineLearning/index.html)
+[**View full report**](https://nravinskaya.github.io/practicalMachineLearning/index.html)
 
