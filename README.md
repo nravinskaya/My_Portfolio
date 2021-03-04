@@ -15,3 +15,7 @@ I built four models, two for each algorithm **random forest** and **decision tre
 
 Here is an interactive map of Berlin with filming locations of some of my favorite movie.
 
+### [**View Web Page**](https://nravinskaya.github.io/WebPageCreatedWithLeaflet/index.html)
+
+![](/images/WebpageLeaflet.png)
+
