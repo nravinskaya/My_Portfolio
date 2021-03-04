@@ -13,3 +13,5 @@ As a result of applying my machine learning algorithm to the test data, **all ca
 
 [**View full report**](https://nravinskaya.github.io/practicalMachineLearning/index.html)
 
+![](/images/rpart1-1.png)
+
