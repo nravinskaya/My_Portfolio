@@ -5,9 +5,9 @@ Example data science portfolio
 
 This is my course project for the **"Practical Machine Learning"** course by Johns Hopkins University on Coursera.
 
-The goal of this project is to predict how people performed exercises based on data about personal movement that were collected from accelerometers on the body. 
+The goal of this project is to predict how people performed exercises based on data about personal movement that were collected from accelerometers on their bodies. 
 
-I built four models: two for each algorithm **random forest** and **decision tree**, using the packages `caret`, `randomForest` and `rpart`.  
+I built four models, two for each algorithm **random forest** and **decision tree**, using several R packages.  
 Based on the results of the accuracy assessment, the first of the considered models was selected to complete the final test.  
 As a result of applying my machine learning algorithm to the test data, **all cases were predicted correctly**. 
 
